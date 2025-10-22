@@ -22,9 +22,20 @@ _Enter your Groq API key and paste any SQL query to get instant AI-powered analy
 
 ## 🎯 The Problem
 
-BI analysts spend **15-20 minutes per query** trying to understand complex SQL written by others. Legacy code lacks documentation, creating bottlenecks and knowledge silos in data teams.
 
-**Impact:** 2-3 hours daily wasted per analyst on query comprehension alone.
+**Every day, data teams waste hours translating SQL into understanding—turning a 2-minute task into a 15-20 minute archaeology expedition through undocumented code.**
+
+This isn't just an analyst problem. It's an organizational trust gap.
+
+**Analysts** spend 2-3 hours daily deciphering queries instead of delivering insights. Nested CTEs, complex joins, and buried business logic with zero documentation become "black boxes" inherited from colleagues who've moved on.
+
+**Business stakeholders** make million-dollar decisions on dashboards they can't verify. They're forced to trust calculations they don't understand and depend on analysts to explain every metric.
+
+**Organizations** hemorrhage institutional knowledge when analysts leave, taking query logic with them. New hires spend weeks decoding the codebase. Critical reports become untouchable legacy code no one dares modify.
+
+**The compounding cost:** For teams analyzing 50+ queries daily, 13 wasted minutes per query adds up to 10+ hours of lost productivity—every single day.
+
+**The root cause:** We write SQL like disposable scripts, not maintainable code. The technical debt compounds. The knowledge silos deepen. The inefficiency becomes "just how things are."
 
 ---
 
