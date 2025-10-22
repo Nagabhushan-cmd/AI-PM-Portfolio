@@ -209,18 +209,27 @@ Senior BI Developer → AI Product Manager
 
 ---
 
-## 📄 Files
+## 📁 Project Files
 
-- `sql_explainer.py` - Basic version with sample query
-- `sql_explainer_interactive.py` - Interactive CLI tool
-- `test_groq.py` - API setup verification
+### Main Application
+- **`sql_explainer_web.py`** - Production web app (Streamlit) - [Try Live Demo](https://ai-pm-portfolio-m6pk3nz68dgse6qvd6kgrn.streamlit.app/)
+- **`sql_explainer_interactive.py`** - Interactive command-line version
+- **`sql_explainer.py`** - Basic prototype with sample query
+
+### Configuration
+- **`requirements.txt`** - Python dependencies (streamlit, groq)
+- **`test_groq.py`** - API setup verification
+
+### Documentation
+- **`README.md`** - Complete project documentation
+- **`sql_explainer_screenshot.png`** - Application screenshot
 
 ---
 
 ## 📈 Stats
 
 **Development:** 8 hours | **Lines of Code:** ~200 | **Queries Tested:** 50+  
-**Status:** ✅ Production Ready | **Version:** 1.0 | **Date:** October 2024
+**Status:** ✅ Production Ready | **Version:** 2.0 | **Date:** October 2025
 
 ---
 
