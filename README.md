@@ -177,7 +177,7 @@ Senior BI Developer → AI Product Manager
 
 - 🏥 Sr. BI Developer @ Henry Ford Health Systems
 - 📊 MS in Data Science, University of New Haven (2024)
-- 💼 5+ years in BI, analytics, and development
+- 💼 3+ years in BI, analytics, and development
 
 **Contact:**  
 📧 bhushanreddy345@gmail.com  
