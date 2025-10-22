@@ -2,6 +2,18 @@
 
 > Intelligent tool that analyzes SQL queries and provides instant explanations, performance insights, and optimization recommendations in under 2 seconds.
 
+---
+
+## 🌐 Live Demo
+
+**Try it now:** [SQL Query Explainer Web App](https://ai-pm-portfolio-m6pk3nz68dgse6qvd6kgrn.streamlit.app/)
+
+![SQL Explainer Demo](sql_explainer_screenshot.png)
+
+_Enter your Groq API key and paste any SQL query to get instant AI-powered analysis!_
+
+---
+
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![AI](https://img.shields.io/badge/AI-Llama%203.3-orange.svg)](https://groq.com/)
 [![Status](https://img.shields.io/badge/Status-Live-success.svg)]()
